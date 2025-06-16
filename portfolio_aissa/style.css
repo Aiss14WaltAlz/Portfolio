@@ -1,0 +1,54 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #fff;
+    color: #333;
+}
+header {
+    background: #900;
+    color: white;
+    padding: 2em 0;
+    text-align: center;
+}
+.profile-pic {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border: 3px solid white;
+    margin-bottom: 1em;
+}
+.container {
+    width: 90%;
+    max-width: 960px;
+    margin: auto;
+}
+section {
+    padding: 2em 0;
+}
+h2 {
+    border-bottom: 2px solid #900;
+    padding-bottom: 0.3em;
+}
+ul {
+    list-style: none;
+    padding: 0;
+}
+ul li {
+    padding: 0.5em 0;
+}
+footer {
+    text-align: center;
+    background: #222;
+    color: white;
+    padding: 1em 0;
+}
+.btn {
+    display: inline-block;
+    background: #900;
+    color: white;
+    padding: 0.5em 1em;
+    text-decoration: none;
+    margin-top: 1em;
+}
